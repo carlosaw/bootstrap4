@@ -1,7 +1,8 @@
 <template>
   <div id="app">
+    <button class="btn btn-primary">Hola Mundo</button>
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HelloWorld msg="Welcome to Your Vue.js App"/>    
   </div>
 </template>
 
